@@ -1,0 +1,8 @@
+body {
+    background-image: linear-gradient(rgb(246, 246, 255), rgb(240, 195, 195),yellow);
+    background-repeat: no-repeat;
+    background-size: cover;
+font-family: Arial, sans-serif;
+text-align: center;
+margin-top: 50px;
+}
